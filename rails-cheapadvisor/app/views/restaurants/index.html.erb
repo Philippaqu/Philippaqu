@@ -1,0 +1,10 @@
+<h1>Restaurants list</h1>
+<ul>
+  <% @restaurants.each do |restaurant| %>
+  <li>
+  <%= restaurant.name %> -
+  <%=   display_stars(restaurant.rating) %>
+  - <%= linkt_to "See this restaurant" %>
+  </li>
+  <% end %>
+</ul>
