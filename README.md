@@ -12,27 +12,23 @@ Hi, I'm Philippa, an IT and management consultant specializing in digital transf
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/philippa-quadt-301657145/?locale=en_US)
 - 🎿 Fun fact: I'm very passionate about skiing
 
-## Skills
+## Skills 🚀
 
-Here are some of the skills I possess:
+### Programming Languages and Frameworks
+- Ruby on Rails ![Ruby on Rails](https://img.icons8.com/color/48/000000/ruby-programming-language.png)
+- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
-### [Skill 1](skills/skill1/README.md)
+---
 
-- **Description:** A brief description of the skill.
-- **Proficiency Level:** Beginner/Intermediate/Advanced
-- **Projects:** [Project 1](projects/project1/README.md), [Project 2](projects/project2/README.md)
+### Software Proficiency
+![Microsoft Word](https://img.icons8.com/color/48/000000/microsoft-word-2019.png) 
+![Microsoft Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
+![Microsoft PowerPoint](https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png)
+![Microsoft Outlook](https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png)
 
-### [Skill 2](skills/skill2/README.md)
 
-- **Description:** A brief description of the skill.
-- **Proficiency Level:** Beginner/Intermediate/Advanced
-- **Projects:** [Project 1](projects/project1/README.md), [Project 2](projects/project2/README.md)
-
-### [Skill 3](skills/skill3/README.md)
-
-- **Description:** A brief description of the skill.
-- **Proficiency Level:** Beginner/Intermediate/Advanced
-- **Projects:** [Project 1](projects/project1/README.md), [Project 2](projects/project2/README.md)
 
 ## Languages
 
